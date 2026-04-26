@@ -43,6 +43,29 @@ This repository tracks my journey of solving problems consistently to build stro
 * Valid Palindrome (Two Pointers)
 * Longest Substring with K Distinct Characters
 
+**Concepts:** Sliding Window, Two Pointers
+**Learning:** Controlled window using distinct characters, handled string edge cases
+
+---
+
+### Day 5 - Prefix Sum
+
+* Continuous Subarray Sum (Multiple of K)
+* Subarray Sum Check
+
+**Concepts:** Prefix Sum, HashMap
+**Learning:** Same remainder ⇒ subarray sum is multiple of k
+
+---
+
+### Day 6 - Stack & Depth
+
+* Valid Parentheses
+* Remove Outermost Parentheses
+
+**Concepts:** Stack, Depth Tracking
+**Learning:** Matched brackets using LIFO, removed outer layers using depth
+
 ---
 
 ## 🧠 Concepts Covered
@@ -50,6 +73,8 @@ This repository tracks my journey of solving problems consistently to build stro
 * HashMaps
 * Sliding Window (Fixed & Variable)
 * Two Pointers
+* Prefix Sum
+* Stack
 * Strings
 
 ---
@@ -62,30 +87,3 @@ Each problem includes:
 * Approach explanation
 * Time & Space Complexity
 * Test cases
-
----
-
-## 🚀 Next Goals
-
-* Prefix Sum
-* Binary Search
-* Medium-level problems
-* Optimization techniques
-
----
-
-## 💡 Learning Approach
-
-* Solve problems daily
-* Understand patterns instead of memorizing
-* Write clean and readable code
-* Track progress consistently
-
----
-
-## 📈 Progress Mindset
-
-Consistency over perfection.
-Building problem-solving ability step by step.
-
----
