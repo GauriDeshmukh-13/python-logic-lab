@@ -68,6 +68,13 @@ This repository tracks my journey of solving problems consistently to build stro
 
 ---
 
+### Day 7 - Stack & String Manipulation
+
+* Remove Invalid Parentheses (Greedy / Two Pass)
+* Decode String (Stack)
+
+---
+
 ## 🧠 Concepts Covered
 
 * HashMaps
